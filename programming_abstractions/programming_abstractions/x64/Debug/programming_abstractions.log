@@ -1,0 +1,7 @@
+﻿  Scanning sources for module dependencies...
+  Source.cpp
+C:\dev\programming_abstractions_cs106b\programming_abstractions\programming_abstractions\src\Sorting.h(105,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev\programming_abstractions_cs106b\programming_abstractions\programming_abstractions\src\Sorting.h(106,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev\programming_abstractions_cs106b\programming_abstractions\programming_abstractions\src\Sorting.h(127,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev\programming_abstractions_cs106b\programming_abstractions\programming_abstractions\src\Sorting.h(174,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  programming_abstractions.vcxproj -> C:\dev\programming_abstractions_cs106b\programming_abstractions\x64\Debug\programming_abstractions.exe
